@@ -1,0 +1,672 @@
+1589309127646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTStTv5"
+1589309130375	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589309132002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589309132002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589309132002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589309132002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3700): GLib-GIO-CRITICAL **: 00:15:35.241: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:3700): GLib-GIO-CRITICAL **: 00:15:35.241: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:3700): GLib-GIO-CRITICAL **: 00:15:35.241: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589309140635	Marionette	INFO	Listening on port 39465
+1589309140768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589309206761	Marionette	INFO	Stopped listening on port 39465
+1589309300580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqv85A1"
+1589309302861	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589309304749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589309304749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589309304749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589309304749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4167): GLib-GIO-CRITICAL **: 00:18:25.155: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4167): GLib-GIO-CRITICAL **: 00:18:25.155: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4167): GLib-GIO-CRITICAL **: 00:18:25.156: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589309309508	Marionette	INFO	Listening on port 44121
+1589309309611	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589309371841	Marionette	INFO	Stopped listening on port 44121
+1589310217649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez0iFMR"
+1589310225307	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589310226908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589310226908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589310226908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589310226908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4883): GLib-GIO-CRITICAL **: 00:33:52.172: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4883): GLib-GIO-CRITICAL **: 00:33:52.172: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4883): GLib-GIO-CRITICAL **: 00:33:52.172: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589310238807	Marionette	INFO	Listening on port 37659
+1589310238914	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1589310289321	Marionette	INFO	Stopped listening on port 37659
+1589313267306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0J8iW6"
+1589313272389	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589313275803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589313275803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589313275803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589313275804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6188): GLib-GIO-CRITICAL **: 01:24:39.377: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6188): GLib-GIO-CRITICAL **: 01:24:39.377: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6188): GLib-GIO-CRITICAL **: 01:24:39.377: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589313287796	Marionette	INFO	Listening on port 37259
+1589313287847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589313364532	Marionette	INFO	Stopped listening on port 37259
+1589313727622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQb5oV"
+1589313735406	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589313737244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589313737244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589313737244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589313737244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6668): GLib-GIO-CRITICAL **: 01:32:20.899: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6668): GLib-GIO-CRITICAL **: 01:32:20.899: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6668): GLib-GIO-CRITICAL **: 01:32:20.899: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589313746221	Marionette	INFO	Listening on port 41047
+1589313746237	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1589313839842	Marionette	INFO	Stopped listening on port 41047
+1589314168574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileteXF0Q"
+1589314169941	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589314172692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589314172693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589314172694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589314172694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:7367): GLib-GIO-CRITICAL **: 01:39:33.678: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:7367): GLib-GIO-CRITICAL **: 01:39:33.678: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:7367): GLib-GIO-CRITICAL **: 01:39:33.678: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589314177074	Marionette	INFO	Listening on port 41721
+1589314177146	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589314266248	Marionette	INFO	Stopped listening on port 41721
+1589314585478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebWsgcz"
+1589314587969	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589314589818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589314589818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589314589818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589314589818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:7928): GLib-GIO-CRITICAL **: 01:46:32.285: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:7928): GLib-GIO-CRITICAL **: 01:46:32.285: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:7928): GLib-GIO-CRITICAL **: 01:46:32.286: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589314598141	Marionette	INFO	Listening on port 41335
+1589314598160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589314643440	Marionette	INFO	Stopped listening on port 41335
+1589314654145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRDahd"
+1589314658523	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589314661875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589314661875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589314661875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589314661875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8288): GLib-GIO-CRITICAL **: 01:47:44.338: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8288): GLib-GIO-CRITICAL **: 01:47:44.338: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8288): GLib-GIO-CRITICAL **: 01:47:44.338: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589314667059	Marionette	INFO	Listening on port 37951
+1589314667147	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8458, MediaDecoderStateMachine #1] WARNING: 7fc08a0c6710 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 8458, MediaDecoderStateMachine #1] WARNING: Decoder=7fc08ec2b000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 8458, MediaDecoderStateMachine #1] WARNING: 7fc08eda03d0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 8458, MediaDecoderStateMachine #1] WARNING: Decoder=7fc08ec2b000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 8458, MediaDecoderStateMachine #1] WARNING: 7fc098c39710 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 8458, MediaDecoderStateMachine #1] WARNING: Decoder=7fc08ec2b000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 8458, MediaDecoderStateMachine #1] WARNING: 7fc0980da530 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 8458, MediaDecoderStateMachine #1] WARNING: Decoder=7fc08ec2b000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+1589314731337	Marionette	INFO	Stopped listening on port 37951
+1589315111597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLYJDnR"
+1589315114892	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589315117623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589315117623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589315117623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589315117624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8817): GLib-GIO-CRITICAL **: 01:55:19.442: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8817): GLib-GIO-CRITICAL **: 01:55:19.442: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8817): GLib-GIO-CRITICAL **: 01:55:19.442: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589315125670	Marionette	INFO	Listening on port 33497
+1589315125685	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1589315201008	Marionette	INFO	Stopped listening on port 33497
+1589315764226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJwzOL8"
+1589315767420	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589315769288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589315769288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589315769288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589315769289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589315776139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRP1J4R"
+1589315776882	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589315778438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589315778439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589315778439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589315778439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9696): GLib-GIO-CRITICAL **: 02:06:18.673: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9696): GLib-GIO-CRITICAL **: 02:06:18.673: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9696): GLib-GIO-CRITICAL **: 02:06:18.673: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589315783175	Marionette	INFO	Listening on port 41117
+1589315783262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1589315922442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+1589316161683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE4Ys9i"
+1589316162425	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589316163935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589316163935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589316163936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589316163936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:10479): GLib-GIO-CRITICAL **: 02:12:44.244: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:10479): GLib-GIO-CRITICAL **: 02:12:44.244: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:10479): GLib-GIO-CRITICAL **: 02:12:44.244: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589316166687	Marionette	INFO	Listening on port 44947
+1589316166754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 10626, MediaDecoderStateMachine #1] WARNING: 7f88abde3300 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 10626, MediaDecoderStateMachine #1] WARNING: Decoder=7f88afaa0800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 10626, MediaDecoderStateMachine #1] WARNING: 7f88abde3980 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 10626, MediaDecoderStateMachine #1] WARNING: Decoder=7f88afaa0800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589316338996	Marionette	INFO	Stopped listening on port 44947
+1589316464176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefi0tcO"
+1589316465017	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589316466362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589316466362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589316466362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589316466363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11290): GLib-GIO-CRITICAL **: 02:17:46.583: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:11290): GLib-GIO-CRITICAL **: 02:17:46.583: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:11290): GLib-GIO-CRITICAL **: 02:17:46.583: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589316468823	Marionette	INFO	Listening on port 36823
+1589316468891	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11447, MediaDecoderStateMachine #1] WARNING: 7fca2d25f4a0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 11447, MediaDecoderStateMachine #1] WARNING: Decoder=7fca315b1800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 11447, MediaDecoderStateMachine #1] WARNING: 7fca2d1656d0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 11447, MediaDecoderStateMachine #1] WARNING: Decoder=7fca315b1800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589316558460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVUulxj"
+1589316559170	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589316560677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589316560677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589316560677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589316560677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11692): GLib-GIO-CRITICAL **: 02:19:20.892: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:11692): GLib-GIO-CRITICAL **: 02:19:20.893: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:11692): GLib-GIO-CRITICAL **: 02:19:20.893: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589316563336	Marionette	INFO	Listening on port 34739
+1589316563379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589316856295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589317349208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile24wFIH"
+1589317349894	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589317351569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589317351569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589317351569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589317351569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12315): GLib-GIO-CRITICAL **: 02:32:31.804: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12315): GLib-GIO-CRITICAL **: 02:32:31.804: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12315): GLib-GIO-CRITICAL **: 02:32:31.804: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589317354094	Marionette	INFO	Listening on port 46351
+1589317354130	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589317870719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileokBfmg"
+1589317871402	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589317872831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589317872831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589317872831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589317872831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12801): GLib-GIO-CRITICAL **: 02:41:13.047: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12801): GLib-GIO-CRITICAL **: 02:41:13.047: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12801): GLib-GIO-CRITICAL **: 02:41:13.047: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589317875217	Marionette	INFO	Listening on port 39195
+1589317875246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589318003247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilethEKS3"
+1589318003986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589318005368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589318005368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589318005368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589318005369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13143): GLib-GIO-CRITICAL **: 02:43:25.584: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13143): GLib-GIO-CRITICAL **: 02:43:25.584: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13143): GLib-GIO-CRITICAL **: 02:43:25.584: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589318007842	Marionette	INFO	Listening on port 37309
+1589318007920	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589318011139	Marionette	INFO	Stopped listening on port 39195
+Exiting due to channel error.
+1589318017301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZMLqge"
+1589318017986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589318019688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589318019688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589318019689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589318019689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13407): GLib-GIO-CRITICAL **: 02:43:39.910: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13407): GLib-GIO-CRITICAL **: 02:43:39.910: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13407): GLib-GIO-CRITICAL **: 02:43:39.910: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589318023882	Marionette	INFO	Listening on port 42773
+1589318023927	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589318126800	Marionette	INFO	Stopped listening on port 42773
+1589318151573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesQvK58"
+1589318152287	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589318153728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589318153728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589318153729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589318153729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13816): GLib-GIO-CRITICAL **: 02:45:53.964: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13816): GLib-GIO-CRITICAL **: 02:45:53.964: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13816): GLib-GIO-CRITICAL **: 02:45:53.964: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589318157688	Marionette	INFO	Listening on port 35169
+1589318157701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589318604815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5O3QCt"
+1589318605511	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589318607167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589318607167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589318607167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589318607167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14250): GLib-GIO-CRITICAL **: 02:53:27.422: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14250): GLib-GIO-CRITICAL **: 02:53:27.422: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14250): GLib-GIO-CRITICAL **: 02:53:27.422: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589318608988	Marionette	INFO	Stopped listening on port 35169
+1589318609929	Marionette	INFO	Listening on port 38613
+1589318610030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589318808367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile28K3Km"
+1589318809097	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589318811012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589318811012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589318811013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589318811013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14602): GLib-GIO-CRITICAL **: 02:56:51.258: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14602): GLib-GIO-CRITICAL **: 02:56:51.258: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14602): GLib-GIO-CRITICAL **: 02:56:51.258: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589318813548	Marionette	INFO	Listening on port 35727
+1589318813588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589318817311	Marionette	INFO	Stopped listening on port 38613
+[Child 14751, MediaDecoderStateMachine #1] WARNING: 7f00258fbef0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 14751, MediaDecoderStateMachine #1] WARNING: Decoder=7f0025cc1c00 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589319083324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1s91qQ"
+1589319084175	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589319085683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589319085684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589319085684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589319085684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:15323): GLib-GIO-CRITICAL **: 03:01:25.905: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15323): GLib-GIO-CRITICAL **: 03:01:25.905: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15323): GLib-GIO-CRITICAL **: 03:01:25.905: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589319088215	Marionette	INFO	Listening on port 43403
+1589319088242	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589319129188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8sl6wk"
+1589319129907	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589319131570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589319131570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589319131571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589319131571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:15652): GLib-GIO-CRITICAL **: 03:02:11.792: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15652): GLib-GIO-CRITICAL **: 03:02:11.792: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15652): GLib-GIO-CRITICAL **: 03:02:11.792: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589319134165	Marionette	INFO	Listening on port 42153
+1589319134250	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589319237524	Marionette	INFO	Stopped listening on port 42153
+1589319237950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMIJG6w"
+1589319238670	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589319240066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589319240066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589319240066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589319240066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16026): GLib-GIO-CRITICAL **: 03:04:00.288: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16026): GLib-GIO-CRITICAL **: 03:04:00.288: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16026): GLib-GIO-CRITICAL **: 03:04:00.288: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589319242426	Marionette	INFO	Listening on port 38935
+1589319242466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589319314239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex6tjFu"
+1589319315177	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589319317879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589319317879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589319317879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589319317879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16364): GLib-GIO-CRITICAL **: 03:05:18.100: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16364): GLib-GIO-CRITICAL **: 03:05:18.100: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16364): GLib-GIO-CRITICAL **: 03:05:18.100: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589319318690	Marionette	INFO	Stopped listening on port 38935
+1589319320241	Marionette	INFO	Listening on port 43187
+1589319320267	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16514, MediaDecoderStateMachine #1] WARNING: 7f4093d333d0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 16514, MediaDecoderStateMachine #1] WARNING: Decoder=7f40810a1800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+1589319381232	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 16514, MediaDecoderStateMachine #1] WARNING: 7f40775e6cc0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 16514, MediaDecoderStateMachine #1] WARNING: Decoder=7f407d5d7400 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589319569454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTO3wb4"
+1589319570119	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589319571631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589319571632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589319571632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589319571632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16911): GLib-GIO-CRITICAL **: 03:09:31.848: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16911): GLib-GIO-CRITICAL **: 03:09:31.849: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16911): GLib-GIO-CRITICAL **: 03:09:31.849: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589319574118	Marionette	INFO	Listening on port 42557
+1589319574171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589321166089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1589321324908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGAbKJY"
+1589321325712	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589321327170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589321327170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589321327170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589321327170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17616): GLib-GIO-CRITICAL **: 03:38:47.389: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:17616): GLib-GIO-CRITICAL **: 03:38:47.389: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:17616): GLib-GIO-CRITICAL **: 03:38:47.389: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589321329848	Marionette	INFO	Listening on port 44017
+1589321329926	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589321334808	Marionette	INFO	Stopped listening on port 42557
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589321673280	Marionette	INFO	Stopped listening on port 44017
+1589321705686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh2u90q"
+1589321706370	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589321707884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589321707884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589321707885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589321707885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18206): GLib-GIO-CRITICAL **: 03:45:08.109: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:18206): GLib-GIO-CRITICAL **: 03:45:08.110: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:18206): GLib-GIO-CRITICAL **: 03:45:08.110: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589321710500	Marionette	INFO	Listening on port 38063
+1589321711636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1589321891227	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1589321906917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe21ced7e0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1ffe5800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: https://abs.twimg.com/responsive-web/web/vendors~main.93a9dde4.js, line 57: Error: ApiError: https://proxsee.pscp.tv/api/v2/replayViewedPublic HTTP-0 codes:[1003] traceId:undefined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe3098ba50 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe2cbaf000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe2cbaf000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe2cbaf000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1fd29050 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe2da51800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1b4d94a0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe183e0800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe183e0800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe183e0800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1589322639750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1b9fbae0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe19dd2400 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1ffd74a0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe2b845c00 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1fccbbf0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1b1eac00 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe20f122c0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe0f941c00 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1fd29050 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1b1aa800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1ff7f600 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1b1aa800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe18325300 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe20f06c00 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe20fed050 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1b733800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1b73ff30 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1b733800 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe1fd29ef0 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1baa6000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 18359, MediaDecoderStateMachine #1] WARNING: 7efe198c0870 OpenCubeb() failed to init cubeb: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 18359, MediaDecoderStateMachine #1] WARNING: Decoder=7efe1baa6000 [OnMediaSinkAudioError]: file /build/firefox-X8LINN/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1589344035548	Marionette	INFO	Stopped listening on port 38063
